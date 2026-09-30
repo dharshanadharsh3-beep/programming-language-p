@@ -1,0 +1,9 @@
+fruits = ["apple" , "banana" , "cherry"]
+  fruits.append("orange")
+  user_profile = {
+  "username" : "coder123" ,
+  "level" : 5,
+  "is_active" : True
+  }
+print(f"First fruit : {fruits[0]}")
+print(f"User level : {user_profile['level']}")
