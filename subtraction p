@@ -1,0 +1,4 @@
+a = 100
+b = 64
+result = a - b
+print(result)
